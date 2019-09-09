@@ -4,7 +4,11 @@
             "code": "AAF", 
             "name": "Academic Advisement - Farrior Hall", 
             "coordinates": {
+<<<<<<< HEAD
                 "latitude": 29.650232, 
+=======
+                "latitude": 29.6502323, 
+>>>>>>> 8b5437cbbe0723c0337cbfa35921ffc13ad9f097
                 "longitude": -82.34563860000002
             }, 
             "address": "100 Fletcher Dr, Gainesville, FL 32611, United States"

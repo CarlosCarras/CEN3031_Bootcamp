@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "Assignment1",
   "version": "2.0.0",
   "description": "Introduction to HTTP and Asynchronous Programming using Node.js",
@@ -14,5 +15,22 @@
   },
   "dependencies": {
     "request": "^2.88.0"
+=======
+  "name": "Bootcamp Assignment #2",
+  "version": "2.0.0",
+  "description": "Persisting data using MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Medhir Bhargava & Christina Gardner-McCune",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.2.9"
+  },
+  "devDependencies": {
+    "mongoose": "^5.6.12",
+    "should": "^13.2.3"
+>>>>>>> 8b5437cbbe0723c0337cbfa35921ffc13ad9f097
   }
 }
