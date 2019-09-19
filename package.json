@@ -1,36 +1,24 @@
 {
-<<<<<<< HEAD
-  "name": "Assignment1",
-  "version": "2.0.0",
-  "description": "Introduction to HTTP and Asynchronous Programming using Node.js",
-  "main": "server.js",
-  "scripts": {
-    "test": "mocha server.test.js",
-    "start": "node server.js"
-  },
-  "author": "Medhir Bhargava",
-  "license": "MIT",
-  "devDependencies": {
-    "should": "^7.1.1"
-  },
-  "dependencies": {
-    "request": "^2.88.0"
-=======
-  "name": "Bootcamp Assignment #2",
-  "version": "2.0.0",
-  "description": "Persisting data using MongoDB and Mongoose",
-  "main": "index.js",
+  "name": "Fall2019_Bootcamp",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # Introduction to HTTP and Asynchronous Programming using Node.js In this assignment we will start to build our UF Directory application. We will use [Node.js](https://en.wikipedia.org/wiki/Node.js) and some of its built in modules to implement a server that provides directory data to clients.  ### What is HTTP? (Make sure to read [this](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)) HTTP (Hypertext Transfer Protocol) is a **stateless** protocol that allows computers to communicate with each other. We use HTTP to allow our client application (the one users see) to communicate with a server that stores and manipulates data relevant to the user.",
+  "main": "JSONtoMongo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Medhir Bhargava & Christina Gardner-McCune",
-  "license": "MIT",
-  "dependencies": {
-    "mongoose": "^4.2.9"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UFWebApps/Fall2019_Bootcamp.git"
   },
-  "devDependencies": {
-    "mongoose": "^5.6.12",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UFWebApps/Fall2019_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/UFWebApps/Fall2019_Bootcamp#readme",
+  "dependencies": {
+    "mongoose": "^5.7.0",
     "should": "^13.2.3"
->>>>>>> 8b5437cbbe0723c0337cbfa35921ffc13ad9f097
   }
 }
